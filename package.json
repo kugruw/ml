@@ -1,0 +1,21 @@
+{
+  "name": "ML",
+  "version": "1.0.0",
+  "description": "MLibrary",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "nodemon app"
+  },
+  "keywords": [
+    "ML"
+  ],
+  "author": "Luhut Andreas",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
